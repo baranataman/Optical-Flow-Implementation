@@ -1,2 +1,2 @@
 # Optical-Flow-Implementation
-Kanade-Lucas-Tomasi (KLT) Feature Tracker Implementation in Python
+Face Feature Tracker with Kanade-Lucas-Tomasi (KLT) Optical Flow Algorithm Implementation in Python
